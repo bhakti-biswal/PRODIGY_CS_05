@@ -58,6 +58,8 @@ Time: 2025-05-19 14:21:05
 GET / HTTP/1.1
 Host: example.com
 ```
+## 📄 License
+This project is released under the MIT License.
 
 ## 🔐 Security & Ethical Use
 ✅ Only sniff on interfaces you own or have permission to monitor.
